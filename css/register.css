@@ -1,0 +1,55 @@
+.l{
+    font-weight: bolder;
+    font-size: 1rem;
+}
+body {
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-color: #f5f5f5;
+    background-attachment: fixed;
+
+}
+/* .fa{
+    display: inline-block;
+    border: 2px solid;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+} */
+.head{
+    margin-top: 1rem;
+}
+.qw{
+    padding: 1rem;
+}
+.re{
+    color: rgb(69, 65, 60);
+}
+/* .btnn{
+    background-color: black;
+    color:yellow;
+    margin-bottom: 1rem;
+}
+.btnn:hover{
+    background-color: beige;
+    color: black;
+} */
+.li{
+    color: black;
+    text-decoration: none;
+}
+.li:hover{
+    color:rgba(18, 15, 15, 0.941);
+}
+html,
+body {
+  height: 100%;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
